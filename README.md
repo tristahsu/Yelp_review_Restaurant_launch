@@ -4,7 +4,7 @@
 "Wasa-Bee!" project embarks on an insightful journey through restaurant reviews, leveraging the potent capabilities of NLP to unearth valuable insights. Central to our analytical arsenal is BERT, a groundbreaking model that has revolutionized our approach to understanding customer feedback. This project aims to distill sentiments and themes from reviews, providing actionable intelligence for restaurant management and strategic planning.
 
 ## Data Source
-Dataset from [https://www.yelp.com/dataset]
+Data from [Yelp Dataset](https://www.yelp.com/dataset)
 
 ## Methodology
 - **Exploratory Data Analysis (EDA):** Conducted an in-depth EDA to identify patterns, trends, and unique insights within the restaurant review dataset.
